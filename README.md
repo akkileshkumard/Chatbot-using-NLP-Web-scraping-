@@ -1,6 +1,3 @@
-Here's a template for your `README.md` file for the Chatbot using NLP and Web Scraping:
-
-```markdown
 # Chatbot Using NLP and Web Scraping
 
 This project implements a chatbot using natural language processing (NLP) techniques along with web scraping capabilities. The chatbot is designed to fetch information from websites, process PDF documents, and retrieve content from Wikipedia based on user queries.
